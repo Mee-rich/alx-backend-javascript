@@ -1,0 +1,3 @@
+# This ignores the folowing files and modules
+
+node_modules
